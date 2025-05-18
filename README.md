@@ -1,5 +1,5 @@
 # Pixel-Lite-SOC
-
+(still in development)
 **Pixel-Lite-SOC** is a lightweight, GUI-based security operations center designed for educational and personal use. It integrates popular open-source tools like Snort and Wireshark to provide basic threat detection, alert visualization, and packet inspection—all from a simple, user-friendly interface.
 
 ## Features
